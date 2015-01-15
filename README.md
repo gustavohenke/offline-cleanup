@@ -25,8 +25,8 @@ Storage types:
 
 * indexedDB
 * localStorage
-* ~~WebSQL~~
-* ~~Cookies~~
+* ~~WebSQL~~ (wished feature)
+* ~~Cookies~~ (does anyone still use it as a storage?)
 
 ## License
 MIT
