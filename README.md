@@ -7,6 +7,12 @@ You have three, easy choices for installing offlineCleanup:
 * Install via Bower: `bower install offline-cleanup`
 * Install via NPM: `npm install offline-cleanup`
 
+And then include the script tag somewhere:
+
+```html
+<script src="bower_components/offline-cleanup/offline-cleanup.js"></script>
+```
+
 ## Usage
 Easy as that:
 
