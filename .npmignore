@@ -1,0 +1,9 @@
+# Development stuff
+/test
+
+# IntelliJ
+/.idea
+*.iml
+
+# Node/NPM
+npm-debug.log

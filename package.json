@@ -1,0 +1,15 @@
+{
+    "name": "offline-cleanup",
+    "version": "0.0.1",
+    "description": "A simple JavaScript utility for cleaning up all DOM storage data.",
+    "keywords": [],
+    "dependencies": {},
+    "devDependencies": {
+        "karma": "^0.12.15",
+        "karma-chai-plugins": "^0.2.4",
+        "karma-mocha": "^0.1.10",
+        "karma-phantomjs-launcher": "^0.1.4"
+    },
+    "main": "./offline-cleanup.js",
+    "license": "MIT"
+}
