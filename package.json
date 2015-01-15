@@ -6,10 +6,14 @@
     "dependencies": {},
     "devDependencies": {
         "karma": "^0.12.15",
+        "karma-cli": "^0.0.4",
         "karma-chai-plugins": "^0.2.4",
         "karma-mocha": "^0.1.10",
         "karma-phantomjs-launcher": "^0.1.4"
     },
     "main": "./offline-cleanup.js",
+    "scripts": {
+        "test": "karma start test/karma.conf.js --single-run"
+    },
     "license": "MIT"
 }
