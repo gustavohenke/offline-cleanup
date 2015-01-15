@@ -1,0 +1,6 @@
+{
+    "name": "offline-cleanup",
+    "main": "./offline-cleanup.js",
+    "dependencies": {},
+    "ignore": [ "test" ]
+}
