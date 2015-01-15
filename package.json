@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "description": "A simple JavaScript utility for cleaning up all DOM storage data. No dependencies.",
     "keywords": [],
+    "repository": "gustavohenke/offline-cleanup",
     "dependencies": {},
     "devDependencies": {
         "karma": "^0.12.15",
