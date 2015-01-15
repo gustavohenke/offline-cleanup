@@ -1,6 +1,6 @@
 {
     "name": "offline-cleanup",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A simple JavaScript utility for cleaning up all DOM storage data. No dependencies.",
     "keywords": [],
     "repository": "gustavohenke/offline-cleanup",
