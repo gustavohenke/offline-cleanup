@@ -1,5 +1,5 @@
 # offlineCleanup
-A simple JavaScript utility for cleaning up all DOM storage data.
+A simple JavaScript utility for cleaning up all DOM storage data. No dependencies.
 
 ## Installation
 You have three, easy choices for installing offlineCleanup:
