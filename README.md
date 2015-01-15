@@ -1,4 +1,4 @@
-# offlineCleanup
+# offlineCleanup [![Build Status](https://img.shields.io/travis/gustavohenke/offline-cleanup.svg?style=flat-square)](https://travis-ci.org/gustavohenke/offline-cleanup)
 A simple JavaScript utility for cleaning up all DOM storage data. No dependencies.
 
 ## Installation
